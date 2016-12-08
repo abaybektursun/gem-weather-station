@@ -1,2 +1,1 @@
-# gem-weather-station
-Weather Station
+# Weather Station
